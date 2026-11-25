@@ -22,6 +22,12 @@ YouTube keeps renaming its CSS classes, so view counts are matched by their text
 - **[Taxify](https://github.com/tomup5/Taxify)**: a ride-hailing and scooter-rental simulation in Java, built with a teammate. Seeded test runs check after every step that no rider is ever booked twice.
 - **Internship Pipeline** (private): a local tool that finds internships and helps tailor applications, with me approving each step.
 
+## Tech stack
+
+**Languages:** Java, Python, JavaScript, TypeScript, C, C++, SQL<br/>
+**Frameworks:** React, Node.js, ASP.NET Core<br/>
+**Tools:** Git, Linux, GitHub Actions, Claude Code
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tomup5/tomup5/output/snake-dark.svg" />
