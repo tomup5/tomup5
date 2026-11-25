@@ -13,8 +13,8 @@
 <rect x="-160" y="217" width="160" height="3" fill="url(#shine)"><animate attributeName="x" from="-160" to="440" dur="4s" repeatCount="indefinite"/></rect>
 <rect x="0" y="0" width="5" height="220" fill="url(#bar)"/>
 <text x="26" y="46" font-size="22" font-weight="700" fill="#ffffff">📐 Truss Cut-list Calculator</text>
-<rect x="26" y="62" width="85" height="22" rx="11" fill="#06b6d4" fill-opacity="0.12" stroke="#06b6d4" stroke-width="1"/>
-<text x="68.5" y="77" text-anchor="middle" font-size="10.5" font-weight="700" letter-spacing="0.6" fill="#22d3ee">FULL-STACK</text>
+<rect x="26" y="62" width="96" height="22" rx="11" fill="#06b6d4" fill-opacity="0.12" stroke="#06b6d4" stroke-width="1"/>
+<text x="74" y="77" text-anchor="middle" font-size="10.5" font-weight="700" letter-spacing="0.6" fill="#22d3ee">FULL-STACK</text>
 <text font-size="13" fill="#cbd5e1"><tspan x="26" y="110">Calculates the cut list for a roof truss from its geometry.</tspan><tspan x="26" y="129">ASP.NET Core Web API backend, React + TypeScript UI.</tspan></text>
 <rect x="26" y="148" width="103" height="22" rx="11" fill="#512BD4"/><text x="77.5" y="163" text-anchor="middle" font-size="11.5" font-weight="600" fill="#fff">ASP.NET Core</text><rect x="137" y="148" width="69" height="22" rx="11" fill="#68217A"/><text x="171.5" y="163" text-anchor="middle" font-size="11.5" font-weight="600" fill="#fff">EF Core</text><rect x="214" y="148" width="62" height="22" rx="11" fill="#0F80CC"/><text x="245" y="163" text-anchor="middle" font-size="11.5" font-weight="600" fill="#fff">SQLite</text><rect x="284" y="148" width="55" height="22" rx="11" fill="#61DAFB"/><text x="311.5" y="163" text-anchor="middle" font-size="11.5" font-weight="600" fill="#111">React</text><rect x="26" y="178" width="89" height="22" rx="11" fill="#3178C6"/><text x="70.5" y="193" text-anchor="middle" font-size="11.5" font-weight="600" fill="#fff">TypeScript</text>
 </g>
