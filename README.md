@@ -19,26 +19,10 @@ CS and math student at Saint Louis University, graduating 2028. I spent spring 2
   <a href="https://github.com/tomup5/Taxify"><img src="assets/cards/taxify.svg" width="49%" alt="Taxify: Java ride-hailing and micro-mobility simulation with 51 tests" /></a>
 </p>
 
-### Attention Sentry in action
-
-You can't just block YouTube when your lecture is on there, so Attention Sentry goes after the features built to keep you there instead: infinite feeds, autoplay, view counts. When it steps in, it tells you which pattern it caught.
-
-| Asks why you came, before the feed loads | Catches a link-hopping trail on Wikipedia |
-| :---: | :---: |
-| <img src="assets/screenshots/youtube-intention.png" alt="Attention Sentry asking for your intention on YouTube" /> | <img src="assets/screenshots/wikipedia-checkin.png" alt="Attention Sentry check-in on Wikipedia" /> |
-
-YouTube keeps renaming its CSS classes, so view counts are matched by their text ("1.2M views") instead of by selector.
-
 ## Tech stack
 
 <img src="assets/stack.svg" width="100%" alt="Languages: Java, Python, JavaScript, TypeScript, C, C++, SQL. Frameworks: React, Node.js, ASP.NET Core. Tools: Git, Linux, GitHub Actions, Claude Code" />
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tomup5/tomup5/output/snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tomup5/tomup5/output/snake.svg" />
-    <img src="https://raw.githubusercontent.com/tomup5/tomup5/output/snake-dark.svg" alt="Snake eating my contribution graph" />
-  </picture>
-</p>
+<img src="https://raw.githubusercontent.com/tomup5/tomup5/output/calendar.svg" width="100%" alt="Contribution calendar" />
 
 <img src="assets/footer.svg" width="100%" alt="" />
