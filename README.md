@@ -18,7 +18,7 @@
   <a href="https://github.com/tomup5/truss-cutlist-calculator"><img src="assets/cards/truss-cutlist.svg" width="49%" alt="Truss Cut-list Calculator: ASP.NET Core + React full-stack app" /></a>
 </p>
 <p align="center">
-  <a href="https://github.com/tomup5/internship-pipeline"><img src="assets/cards/internship-pipeline.svg" width="49%" alt="Internship Pipeline: human-in-the-loop assistant for internship applications" /></a>
+  <img src="assets/cards/internship-pipeline.svg" width="49%" alt="Internship Pipeline: human-in-the-loop assistant for internship applications" />
   <a href="https://github.com/tomup5/Taxify"><img src="assets/cards/taxify.svg" width="49%" alt="Taxify: Java ride-hailing and micro-mobility simulation with 51 tests" /></a>
 </p>
 
