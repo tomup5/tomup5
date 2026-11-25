@@ -1,51 +1,26 @@
-<!-- Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:06b6d4&height=220&section=header&text=Thomas%20Dupree&fontSize=64&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Computer%20Science%20%2B%20Mathematics%20%E2%80%A2%20Saint%20Louis%20University&descSize=18&descAlignY=58" alt="Thomas Dupree" />
+# Thomas Dupree
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1200&color=06B6D4&center=true&vCenter=true&width=640&lines=CS+%2B+Math+%40+Saint+Louis+University;Full-stack%3A+React+%C2%B7+ASP.NET+%C2%B7+Python+%C2%B7+Java" alt="Typing intro" />
-</p>
+CS and math student at Saint Louis University, graduating 2028. I spent spring 2026 studying in Madrid. Summers I'm a head lifeguard, and the rest of the year I'm in the SLU pep band.
 
-<p align="center">
-  <a href="https://linkedin.com/in/thomas-dupree"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+TGlua2VkSW48L3RpdGxlPjxwYXRoIGZpbGw9IndoaXRlIiBkPSJNMjAuNDQ3IDIwLjQ1MmgtMy41NTR2LTUuNTY5YzAtMS4zMjgtLjAyNy0zLjAzNy0xLjg1Mi0zLjAzNy0xLjg1MyAwLTIuMTM2IDEuNDQ1LTIuMTM2IDIuOTM5djUuNjY3SDkuMzUxVjloMy40MTR2MS41NjFoLjA0NmMuNDc3LS45IDEuNjM3LTEuODUgMy4zNy0xLjg1IDMuNjAxIDAgNC4yNjcgMi4zNyA0LjI2NyA1LjQ1NXY2LjI4NnpNNS4zMzcgNy40MzNjLTEuMTQ0IDAtMi4wNjMtLjkyNi0yLjA2My0yLjA2NSAwLTEuMTM4LjkyLTIuMDYzIDIuMDYzLTIuMDYzIDEuMTQgMCAyLjA2NC45MjUgMi4wNjQgMi4wNjMgMCAxLjEzOS0uOTI1IDIuMDY1LTIuMDY0IDIuMDY1em0xLjc4MiAxMy4wMTlIMy41NTVWOWgzLjU2NHYxMS40NTJ6TTIyLjIyNSAwSDEuNzcxQy43OTIgMCAwIC43NzQgMCAxLjcyOXYyMC41NDJDMCAyMy4yMjcuNzkyIDI0IDEuNzcxIDI0aDIwLjQ1MUMyMy4yIDI0IDI0IDIzLjIyNyAyNCAyMi4yNzFWMS43MjlDMjQgLjc3NCAyMy4yIDAgMjIuMjIyIDBoLjAwM3oiLz48L3N2Zz4=" alt="LinkedIn" /></a>
-  <a href="https://tomup5.github.io"><img src="https://img.shields.io/badge/Portfolio-1E3A8A?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://chromewebstore.google.com/detail/attention-sentry-study-wi/amfaapdddenljaahkfjhbffofjacekfn"><img src="https://img.shields.io/badge/Chrome_Web_Store-06B6D4?style=for-the-badge&logo=chromewebstore&logoColor=white" alt="Chrome Web Store" /></a>
-</p>
+[LinkedIn](https://linkedin.com/in/thomas-dupree) · [Portfolio](https://tomup5.github.io)
 
-<h2 align="center">🚀 Featured Projects</h2>
+## Attention Sentry
 
-<p align="center">
-  <a href="https://github.com/tomup5/AttentionSentry-ChromeExtension"><img src="assets/cards/attention-sentry.svg" width="49%" alt="Attention Sentry: Chrome extension that names and disarms dark patterns" /></a>
-  <a href="https://github.com/tomup5/truss-cutlist-calculator"><img src="assets/cards/truss-cutlist.svg" width="49%" alt="Truss Cut-list Calculator: ASP.NET Core + React full-stack app" /></a>
-</p>
-<p align="center">
-  <img src="assets/cards/internship-pipeline.svg" width="49%" alt="Internship Pipeline: human-in-the-loop assistant for internship applications" />
-  <a href="https://github.com/tomup5/Taxify"><img src="assets/cards/taxify.svg" width="49%" alt="Taxify: Java ride-hailing and micro-mobility simulation with 51 tests" /></a>
-</p>
+A Chrome extension for studying on YouTube, Reddit, Wikipedia, Discord, and the New York Times. You can't just block YouTube when your lecture is on there, so it goes after the features built to keep you there instead: infinite feeds, autoplay, view counts. When it steps in, it tells you which pattern it caught.
 
-<h2 align="center">👨‍💻 About Me</h2>
+| Asks why you came, before the feed loads | Catches a link-hopping trail on Wikipedia |
+| :---: | :---: |
+| <img src="assets/screenshots/youtube-intention.png" alt="Attention Sentry asking for your intention on YouTube" /> | <img src="assets/screenshots/wikipedia-checkin.png" alt="Attention Sentry check-in on Wikipedia" /> |
 
-- 🎓 **B.S. Computer Science + B.A. Mathematics** at Saint Louis University (May 2028)
-- 🌍 Studied software engineering and physics at **SLU Madrid** (Spring 2026)
-- 🧪 I like proving my code works: jsdom suites, seeded simulations, and CI on every push
-- 🛟 **Head lifeguard**, leading a team of 14+ guards
-- 🎺 SLU Pep Band and intramural sports
+YouTube keeps renaming its CSS classes, so view counts are matched by their text ("1.2M views") instead of by selector.
 
-<h2 align="center">🛠️ Tech Stack</h2>
+[Code](https://github.com/tomup5/AttentionSentry-ChromeExtension) · [Chrome Web Store](https://chromewebstore.google.com/detail/attention-sentry-study-wi/amfaapdddenljaahkfjhbffofjacekfn)
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,py,c,cpp,js,ts,html,css&theme=dark" alt="Languages" /><br/>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,dotnet,sqlite,git,github,githubactions,linux,vscode&theme=dark" alt="Frameworks and tools" />
-</p>
+## Other projects
 
-<h2 align="center">📊 GitHub Stats</h2>
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=tomup5&show_icons=true&hide_border=true&bg_color=0b1220&title_color=06b6d4&icon_color=06b6d4&text_color=cbd5e1&ring_color=06b6d4&rank_icon=github" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomup5&layout=compact&hide_border=true&bg_color=0b1220&title_color=06b6d4&text_color=cbd5e1" alt="Top languages" />
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=tomup5&hide_border=true&background=0B1220&ring=06B6D4&fire=22D3EE&currStreakLabel=06B6D4&sideLabels=CBD5E1&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8&stroke=1E3A8A" alt="GitHub streak" />
-</p>
+- **[Truss Cut-list Calculator](https://github.com/tomup5/truss-cutlist-calculator)**: works out the cut list for a roof truss from its geometry. ASP.NET Core API with a React and TypeScript frontend.
+- **[Taxify](https://github.com/tomup5/Taxify)**: a ride-hailing and scooter-rental simulation in Java, built with a teammate. Seeded test runs check after every step that no rider is ever booked twice.
+- **Internship Pipeline** (private): a local tool that finds internships and helps tailor applications, with me approving each step.
 
 <p align="center">
   <picture>
@@ -54,6 +29,3 @@
     <img src="https://raw.githubusercontent.com/tomup5/tomup5/output/snake-dark.svg" alt="Snake eating my contribution graph" />
   </picture>
 </p>
-
-<!-- Footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,100:1e3a8a&height=120&section=footer" alt="" />
