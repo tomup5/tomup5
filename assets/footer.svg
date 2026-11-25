@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="90" viewBox="0 0 900 90" role="img" aria-label="">
+<defs>
+<linearGradient id="g" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#06b6d4"/><stop offset="1" stop-color="#1e3a8a"/></linearGradient>
+<mask id="m1"><g transform="translate(0 90) scale(1 -1)"><path fill="#fff" d="M0 0 V50 Q112.5 74 225 50 T450 50 T675 50 T900 50 T1125 50 T1350 50 T1575 50 T1800 50 V0 Z"><animateTransform attributeName="transform" type="translate" from="0 0" to="-450 0" dur="9s" repeatCount="indefinite"/></path></g></mask>
+<mask id="m2"><g transform="translate(0 90) scale(1 -1)"><path fill="#fff" d="M0 0 V62 Q150 84 300 62 T600 62 T900 62 T1200 62 T1500 62 T1800 62 V0 Z"><animateTransform attributeName="transform" type="translate" from="-600 0" to="0 0" dur="13s" repeatCount="indefinite"/></path></g></mask>
+</defs>
+<rect width="900" height="90" fill="url(#g)" opacity="0.4" mask="url(#m2)"/>
+<rect width="900" height="90" fill="url(#g)" mask="url(#m1)"/>
+</svg>
