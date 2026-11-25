@@ -1,6 +1,6 @@
 # Thomas Dupree
 
-CS and math student at Saint Louis University, graduating 2028. I spent spring 2026 studying in Madrid. Summers I'm a head lifeguard, and the rest of the year I'm in the SLU pep band.
+CS and math student at Saint Louis University, graduating 2028. I spent spring 2026 studying in Madrid. Summers I'm a head lifeguard, and the rest of the year I play trumpet in the SLU pep band.
 
 [LinkedIn](https://linkedin.com/in/thomas-dupree) · [Portfolio](https://tomup5.github.io)
 
@@ -19,7 +19,7 @@ YouTube keeps renaming its CSS classes, so view counts are matched by their text
 ## Other projects
 
 - **[Truss Cut-list Calculator](https://github.com/tomup5/truss-cutlist-calculator)**: works out the cut list for a roof truss from its geometry. ASP.NET Core API with a React and TypeScript frontend.
-- **[Taxify](https://github.com/tomup5/Taxify)**: a ride-hailing and scooter-rental simulation in Java, built with a teammate. Seeded test runs check after every step that no rider is ever booked twice.
+- **[Taxify](https://github.com/tomup5/Taxify)**: a ride-hailing and scooter-rental simulation in Java, built with a teammate while studying in Madrid. Seeded test runs check after every step that no rider is ever booked twice.
 - **Internship Pipeline** (private): a local tool that finds internships and helps tailor applications, with me approving each step.
 
 ## Tech stack
